@@ -49,7 +49,7 @@ Download the demo database file from the sauerbraten repo and put it
 into the correct resources directory.
 
 ```sh
-wget https://github.com/sauerworld/sauerworld/blob/master/resources/demo.h2.db
+wget https://github.com/sauerworld/sauerworld/raw/master/resources/demo.h2.db
 mkdir storage/resources
 mkdir storage/resources/db
 mv demo.h2.db storage/resources/db/main.h2.db
