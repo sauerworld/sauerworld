@@ -108,3 +108,15 @@ SCSS changes as you're working with:
 ```sh
 scss --watch sdos-site/assets/app.scss:sdos-site/resources/public/css/app.css
 ```
+
+## Testing Auth Server ##
+
+The demo database users have the following auth key pairs:
+
+admin:
+  - Private key: 'f373de2d49584e7a16166e76b1bb925f24f0130c63ac9332'
+  - Public key: '+2c1fb1dd4f2a7b9d81320497c64983e92cda412ed50f33aa'
+
+test:
+  - Private key: '0978245f7f243e61fca787f53bf9c82eabf87e2eeffbbe77'
+  - Public key: '-afe5929327bd76371626cce7585006067603daf76f09c27e'
